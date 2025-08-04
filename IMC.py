@@ -7,3 +7,4 @@ imc = weight/height**2
 
 print(f"{name} tu IMC es {imc:.2f}")
 
+|
